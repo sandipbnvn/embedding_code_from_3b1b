@@ -19,7 +19,6 @@ Make sure the required libraries are installed:
 pip install numpy matplotlib seaborn
 
 
-```markdown
 ## Sections in the Notebook
 
 ### 1. **Vector Representation**
