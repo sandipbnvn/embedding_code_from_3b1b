@@ -15,7 +15,6 @@ This project explores embeddings and their visualizations using high-dimensional
 
 ### Installation
 Make sure the required libraries are installed:
-```bash
 pip install numpy matplotlib seaborn
 
 
